@@ -3,9 +3,11 @@ h1 {
 }
 
 :root {
-  --bg-color: rgb(0, 128, 30);
+  --color-1: #3c3c3c,
+  --color-2: #a3c9e9,
+  --color-3: #EF7e78,
 }
 
 body {
-  background-color: var(--bg-color);
+  background-color: var(--color-1);
 }
