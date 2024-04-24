@@ -3,9 +3,9 @@ h1 {
 }
 
 :root {
-  --color-1: #3c3c3c,
-  --color-2: #a3c9e9,
-  --color-3: #EF7e78,
+  --color-1: #3c3c3c;
+  --color-2: #a3c9e9;
+  --color-3: #EF7e78;
 }
 
 body {
