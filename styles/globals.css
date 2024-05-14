@@ -10,4 +10,5 @@ h1 {
 
 body {
   background-color: var(--color-1);
+  text: var(--color-3);
 }
