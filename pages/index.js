@@ -2,6 +2,8 @@ import Head from "next/head"
 import Image from "next/image"
 import {Inter} from "next/font/google"
 import styles from "@/styles/Home.module.css"
+import Button from "react-bootstrap/Button"
+import "bootstrap/dist/css/bootstrap.min.css"
 
 const inter = Inter({subsets: ["latin"]})
 
@@ -15,6 +17,7 @@ export default function Home() {
 				<link rel="icon" href="/favicon.ico" />
 			</Head>
 			<h1>carl mode</h1>
+			<Button>aldkjads</Button>
 			<p>
 				I am a full-stack software engineer, with five years in the tech
 				industry, including networking, cybersecurity, IT, tech repair, and
